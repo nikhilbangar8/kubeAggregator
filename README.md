@@ -32,9 +32,9 @@ KubeAggregator/
 │   ├── cron
 │   │   └── cronjobs.go
 │   └── server
-│   │   ├── server.go   # Server logic
-│   │   ├── handler.go  # HTTP handlers
-│   │   └── config.go   # Configuration for server
+│       ├── server.go   # Server logic
+│       ├── handler.go  # HTTP handlers
+│       └── config.go   # Configuration for server
 └──
 ```
 ```go
